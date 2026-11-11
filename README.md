@@ -13,3 +13,8 @@ asdasdazxcczx
 ## Colaboración
 
 Prueba de colaboración para GitHub Achievements.
+
+
+## Mejoras del proyecto
+
+Documentación ampliada mediante colaboración entre desarrolladores.
